@@ -1,10 +1,12 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: 1-solution vous permet de tirer le maximum de votre abonnement M365, avec
+    PowerAutomate, PowerApps, Modern-Driven-Apps, ou même avec nos équipes de développeurs
+    pour créer votre solution
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Nous sommes là pour optimiser et automatiser vos processus à l'aide d'1
+    solution, la vôtre! Facilitez vos opérations pour faire face à la pénurie de main-d'œuvre
+    avec 1-solution.
   button:
     enable: true
     label: Contact With Us
