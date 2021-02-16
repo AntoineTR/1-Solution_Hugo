@@ -92,8 +92,7 @@ call_to_action:
   enable: true
   title: Votre solution
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Essayez nos solutions pour contrer la pénurie de main-d'œuvre
   button:
     enable: true
     label: Contact Us
