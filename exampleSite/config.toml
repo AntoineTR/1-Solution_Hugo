@@ -5,16 +5,6 @@ paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
 title = "1-Solution"
-[languages.fr]
-contentDir = "content/french"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
-languageName = "En"
-title = "Bigspring Hugo"
-weight = 1
 [languages.en]
 contentDir = "content/english"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
@@ -23,6 +13,16 @@ footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "En"
+title = "Bigspring Hugo"
+weight = 1
+[languages.fr]
+contentDir = "content/french"
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+languageName = "Fr"
 title = "Bigspring Hugo"
 weight = 1
 [markup.goldmark.renderer]
