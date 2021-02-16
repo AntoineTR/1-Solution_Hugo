@@ -8,6 +8,10 @@ sections:
   label: Homepage
 - type: document
   path: exampleSite/data/fr/homepage.yml
+  label: Homepage Data (En)
+  match: "**/*"
+- type: document
+  path: exampleSite/data/fr/homepage.yml
   label: Homepage Data
 - type: heading
   label: Blog Post
