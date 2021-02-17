@@ -17,10 +17,10 @@ title = "Bigspring Hugo"
 weight = 1
 [languages.fr]
 contentDir = "content/french"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
+copyright = "Copyright 1-Solution"
+footer_content = "1-Solution, la solution pour automatiser et optimiser"
+footer_menu_left = "Qui sommes nous?"
+footer_menu_middle = "Services"
 footer_menu_right = "Support"
 languageName = "Fr"
 title = "1-Solution"
@@ -71,7 +71,7 @@ name = "FAQ"
 url = "faq"
 weight = 4
 [params]
-author = "Themefisher"
+author = "1-solution"
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
