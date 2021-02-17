@@ -1,5 +1,6 @@
 baseURL = "https://1-solution.ca"
 defaultContentLanguage = "fr"
+disableLanguages = ["en"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
