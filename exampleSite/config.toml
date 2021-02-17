@@ -27,24 +27,50 @@ title = "1-Solution"
 weight = 1
 [markup.goldmark.renderer]
 unsafe = true
-[menu]
-footer_middle = []
-footer_right = []
 [[menu.footer_left]]
-name = "À propos de nous"
-url = "#"
-[[menu.main]]
-name = "Blog"
-url = "blog"
+name = "Pricing"
+url = "pricing"
 weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
+[[menu.footer_left]]
+name = "Quick Start"
+url = "#"
+weight = 2
+[[menu.footer_left]]
+name = "About Us"
+url = "#"
+weight = 3
+[[menu.footer_middle]]
+name = "Features"
+url = "#"
+weight = 1
+[[menu.footer_middle]]
+name = "Platform"
+url = "#"
+weight = 2
+[[menu.footer_right]]
+name = "FAQ"
+url = "faq"
+weight = 1
+[[menu.footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+weight = 2
+[[menu.footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy"
 weight = 3
 [[menu.main]]
 name = "FAQ"
 url = "faq"
-weight = 4
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 2
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
 [params]
 author = "1-solution"
 contact_form_action = "#"
