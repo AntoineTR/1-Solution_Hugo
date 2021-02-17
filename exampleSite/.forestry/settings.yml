@@ -7,8 +7,11 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/data/homepage.yml
+  path: exampleSite/data/fr/homepage.yml
   label: Homepage Data
+- type: document
+  path: exampleSite/data/en/homepage.yml
+  label: HomePage Data (En)
 - type: heading
   label: Blog Post
 - type: document
