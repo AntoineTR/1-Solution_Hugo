@@ -1,15 +1,15 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Faites plus avec moins!
+subtitle: ''
+description: This is meta description
+
 ---
+### Contactez-nous!
 
+Laissez-nous vous aider à tirer le maximum de vos ressources. 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+Avec 1-Solution, vous aurez votre solution, pour optimiser et automatiser.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Téléphone: 514.996.7969**
+* **Courriel: claude@1-solution.ca**
+* **Addresse: 3840, Lavoie, Saint-Hubert, QUEBEC, J3Y 5E4**
