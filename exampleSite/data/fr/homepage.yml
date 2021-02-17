@@ -1,14 +1,13 @@
 ---
 banner:
-  title: Power Automate, PowerApps, Modern-Driven apps, applications. Pour s'y retrouver,
-    pour en tirer le maximum, contacter 1-Solution au 514.996.7969
+  title: Power Automate, PowerApps, Modern-Driven apps, applications. Quoi choisir?
   image: images/banner-art.svg
-  content: Nous sommes là pour optimiser et automatiser vos processus à l'aide d'1
-    solution, la vôtre! Facilitez vos opérations pour faire face à la pénurie de main-d'œuvre
-    avec 1-solution.
+  content: "Facilitez vos opérations pour faire face à la pénurie de main-d'œuvre
+    avec 1-solution.\nNous sommes là pour vous aider à optimiser et automatiser vos
+    processus.\n1-solution, la vôtre! \n"
   button:
     enable: true
-    label: Contact With Us
+    label: Faites plus avec moins!
     link: contact
 feature:
   enable: true
