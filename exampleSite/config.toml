@@ -28,14 +28,8 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-name = "About Us"
+name = "À propos de nous"
 url = "#"
-[[menu.footer_left]]
-name = "Quick Start"
-url = "#"
-[[menu.footer_left]]
-name = "Pricing"
-url = "pricing"
 [[menu.footer_middle]]
 name = "Pricing"
 url = "pricing"
