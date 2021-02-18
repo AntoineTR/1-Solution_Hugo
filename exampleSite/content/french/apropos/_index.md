@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: Mission & Vision
 subtitle: ''
 description: This is meta description
 
