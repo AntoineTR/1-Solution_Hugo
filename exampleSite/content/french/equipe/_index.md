@@ -15,7 +15,7 @@ Son approche est: la technologie est au service de l’humain.
 
 #### Antoine Thériault-Richer
 
-Développeur, grand gagnant de la 2e place au niveau mondial au #TDGiGlobalHack, organiser par Microsoft. Il a plus de 10 ans d’expérience en technologies. L’homme de tous les défis.
+Développeur, grand gagnant de la 2e place au niveau mondial au #TDGiGlobalHack, organisé par Microsoft. Il a plus de 10 ans d’expérience en technologies. L’homme de tous les défis.
 
 #### Bruno Laporte
 
