@@ -95,5 +95,5 @@ call_to_action:
   content: Essayez nos solutions pour contrer la pénurie de main-d'œuvre
   button:
     enable: true
-    label: Contact Us
+    label: Faites plus avec moins!
     link: contact
