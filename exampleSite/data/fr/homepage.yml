@@ -27,7 +27,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Dateverse et les produits Power de Microsoft, le futur maintenant!
+  - title: Dataverse et les produits Power de Microsoft, le futur maintenant!
     images:
     - images/service-1.png
     - images/service-2.png
@@ -35,7 +35,7 @@ service:
     content: Les produits Power-BI, PowerAutomate, PowerApps, vous permet de gérer
       et de conserver les outils chez vous
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Autonomie et liberté du choix du fournisseur
