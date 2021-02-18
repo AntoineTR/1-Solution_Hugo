@@ -38,14 +38,11 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Autonomie et liberté du choix du fournisseur
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Les solutions PowerApps et PowerAutomate proposées par 1-Solution vous
+      sont acquises. Rien de mieux que de conserver l'autonomie du choix du fournisseur
     button:
       enable: true
       label: Check it out
