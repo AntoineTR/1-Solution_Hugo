@@ -49,7 +49,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Automatiser <br> Optimiser
   image: images/screenshot.svg
 call_to_action:
   enable: true
