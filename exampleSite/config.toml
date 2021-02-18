@@ -33,18 +33,6 @@ unsafe = true
 name = "Équipe"
 url = "#"
 weight = 1
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 2
-[[menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 3
 [params]
 author = "1-solution"
 contact_form_action = "#"
