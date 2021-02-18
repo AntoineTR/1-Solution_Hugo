@@ -54,7 +54,7 @@ name = "FAQ"
 url = "faq"
 weight = 1
 [[menu.footer_right]]
-name = "Terms & Conditions"
+name = "Valeurs"
 url = "terms-conditions"
 weight = 2
 [[menu.footer_right]]
