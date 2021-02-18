@@ -21,9 +21,9 @@ feature:
     icon: ti-package
     content: Nous comprenons bien les défis des Entreprises. Elles doivent faire plus
       avec moins.
-  - name: 24h Service
+  - name: Le temps c'est de l'argent
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Avec les outils M365, et 1-Solution, vous obtiendrez 1-Solution rapidement
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
