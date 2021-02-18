@@ -23,7 +23,7 @@ feature:
       avec moins.
   - name: Le temps c'est de l'argent
     icon: ti-alarm-clock
-    content: Avec les outils M365, et 1-Solution, vous obtiendrez 1-Solution rapidement
+    content: Avec les outils M365, et 1-Solution, vous obtiendrez 1-Solution rapidement.
 service:
   enable: true
   service_item:
