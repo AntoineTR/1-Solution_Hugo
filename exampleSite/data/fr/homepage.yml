@@ -24,15 +24,6 @@ feature:
   - name: Le temps c'est de l'argent
     icon: ti-alarm-clock
     content: Avec les outils M365, et 1-Solution, vous obtiendrez 1-Solution rapidement
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
