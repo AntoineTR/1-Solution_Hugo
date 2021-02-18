@@ -33,22 +33,6 @@ unsafe = true
 name = "Équipe"
 url = "#"
 weight = 1
-[[menu.footer_middle]]
-name = "Créativité"
-url = "#"
-weight = 2
-[[menu.footer_middle]]
-name = "Intégrité"
-url = "#"
-weight = 1
-[[menu.footer_middle]]
-name = "Humain"
-url = "#"
-weight = 3
-[[menu.footer_middle]]
-name = "Compétences"
-url = "#"
-weight = 4
 [[menu.footer_right]]
 name = "Vision"
 url = "privacy-policy"
