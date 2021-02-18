@@ -17,9 +17,10 @@ feature:
     icon: ti-pulse
     content: Les fonctionnalités de PowerAutomate vous permet de faire des gains en
       simplification et automatisation.
-  - name: Object Oriented
+  - name: PowerApps
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Nous comprenons bien les défis des Entreprises. Elles doivent faire plus
+      avec moins.
   - name: 24h Service
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
