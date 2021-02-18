@@ -2,6 +2,9 @@
 title: Mission & Vision
 subtitle: ''
 description: This is meta description
+menu:
+  footer_left:
+    weight: 3
 
 ---
 #### Mission
