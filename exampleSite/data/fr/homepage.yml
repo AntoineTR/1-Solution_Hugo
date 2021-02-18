@@ -11,66 +11,41 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Ce que 1-solution vous propose
   feature_item:
-  - name: Clean Code
+  - name: PowerAutomate
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: Les fonctionnalités de PowerAutomate vous permet de faire des gains en
+      simplification et automatisation.
+  - name: PowerApps
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+    content: Nous comprenons bien les défis des Entreprises. Elles doivent faire plus
+      avec moins.
+  - name: Le temps c'est de l'argent
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Avec les outils M365, et 1-Solution, vous obtiendrez 1-Solution rapidement.
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Dateverse et les produits Power de Microsoft, le futur maintenant!
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-  - title: It is a privately owned Information and cyber security company
+    content: Les produits Power-BI, PowerAutomate, PowerApps, vous permet de gérer
+      et de conserver les outils chez vous
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: Autonomie et liberté du choix du fournisseur
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-  - title: It’s a team of experienced and skilled people with distributions
-    images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Les solutions PowerApps et PowerAutomate proposées par 1-Solution vous
+      sont acquises. Rien de mieux que de conserver l'autonomie du choix du fournisseur
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Automatiser <br> Optimiser
   image: images/screenshot.svg
 call_to_action:
   enable: true
@@ -79,5 +54,5 @@ call_to_action:
   content: Essayez nos solutions pour contrer la pénurie de main-d'œuvre
   button:
     enable: true
-    label: Nous Contacter
+    label: Faites plus avec moins!
     link: contact
