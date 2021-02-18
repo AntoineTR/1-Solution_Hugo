@@ -7,20 +7,20 @@ menu:
     weight: 1
 
 ---
-#### Mission
+#### Claude Richer
 
-Nous visons à obtenir le maximum de vos applications et solutions en place.
+Président, a une longue histoire d’entrepreneur et de formateur. Il a été fondateur et président de Maximiz. Il a été auteur, conférenciers, innovateur. 
 
-Optimiser et automatiser les processus de l’entreprise, est la clé pour être plus productif.
+Son approche est: la technologie est au service de l’humain.
 
-De la simple opération administrative à la mise en place d’un système complet, notre ouverture et créativité vous permettra d’obtenir un gain en utilisant nos solutions.
+#### Antoine Thériault-Richer
 
-#### Vision
+Développeur, grand gagnant de la 2e place au niveau mondial au #TDGiGlobalHack, organiser par Microsoft. Il a plus de 10 ans d’expérience en technologies. L’homme de tous les défis.
 
-Les entreprises ont souvent fait des investissements majeurs dans les applications ou solutions pour obtenir un gain appréciable avec leur productivité et leur rentabilité.
+#### Bruno Laporte
 
-Chez 1-Solution, notre savoir-faire et nos solutions vous permettront d’utiliser le plein potentiel de vos systèmes déjà en place.
+Développeur, côté humain dès plus important, être à l’écoute de ce que les gens disent ou ne disent pas est sa spécialité, en plus d’être un développeur chevronné.
 
-Nous tenons compte de ce vous avez déjà en place et nous croyons que l’humain fait partie intégrante de l’ascension de votre entreprise à des sommets encore inégalés.
+#### Marc-André Poupier
 
-Notre raison d’être est basé sur le retour sur investissement de ce que nous apportons.
+Intégrateur, développeur, geek, avec plus de 20 ans d’expériences, il est en mesure de bien comprendre la réalité de l’entreprise, au niveau opérationnel, au niveau intégration. Au fil des ans, il a su tirer profit des outils déjà existants et optimiser les solutions.
