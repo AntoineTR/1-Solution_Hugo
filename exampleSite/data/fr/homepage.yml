@@ -11,11 +11,12 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Ce que 1-solution vous propose
   feature_item:
-  - name: Clean Code
+  - name: PowerAutomate
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Les fonctionnalités de PowerAutomate vous permet de faire des gains en
+      simplification et automatisation.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
