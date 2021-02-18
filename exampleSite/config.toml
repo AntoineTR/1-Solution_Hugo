@@ -33,14 +33,6 @@ unsafe = true
 name = "Équipe"
 url = "#"
 weight = 1
-[[menu.footer_right]]
-name = "Vision"
-url = "privacy-policy"
-weight = 2
-[[menu.footer_right]]
-name = "Mission"
-url = "faq"
-weight = 1
 [[menu.main]]
 name = "Blog"
 url = "blog"
