@@ -29,10 +29,6 @@ title = "1-Solution"
 weight = 1
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.footer_left]]
-name = "Équipe"
-url = "#"
-weight = 1
 [params]
 author = "1-solution"
 contact_form_action = "#"
