@@ -30,35 +30,31 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-name = "Pricing"
-url = "pricing"
-weight = 1
-[[menu.footer_left]]
-name = "Quick Start"
-url = "#"
-weight = 2
-[[menu.footer_left]]
-name = "About Us"
+name = "Équipe"
 url = "#"
 weight = 3
 [[menu.footer_middle]]
-name = "Features"
+name = "Compétences"
+url = "#"
+weight = "4"
+[[menu.footer_middle]]
+name = "Humain"
+url = "#"
+weight = "2"
+[[menu.footer_middle]]
+name = "Intégrité"
 url = "#"
 weight = 1
 [[menu.footer_middle]]
-name = "Platform"
+name = "Créativité"
 url = "#"
 weight = 2
 [[menu.footer_right]]
-name = "FAQ"
+name = "Mission"
 url = "faq"
 weight = 1
 [[menu.footer_right]]
-name = "Valeurs"
-url = "terms-conditions"
-weight = 2
-[[menu.footer_right]]
-name = "Privacy Policy"
+name = "Vision"
 url = "privacy-policy"
 weight = 3
 [[menu.main]]
