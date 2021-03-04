@@ -55,7 +55,7 @@ url = "faq"
 weight = 3
 [params]
 author = "1-solution"
-contact_form_action = "https://formspree.io/support@1-solution.ca"
+contact_form_action = "https://formspree.io/f/xleoyvgl"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "200px"
