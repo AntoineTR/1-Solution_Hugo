@@ -3,15 +3,15 @@ banner:
   title: Power Automate, PowerApps, Modern-Driven apps, applications. Quoi choisir?
   image: images/banner-art.svg
   content: "Facilitez vos opérations pour faire face à la pénurie de main-d'œuvre
-    avec 1-solution.\nNous sommes là pour vous aider à optimiser et automatiser vos
-    processus.\n1-solution, la vôtre! \n"
+    avec 1-SOLUTION .\nNous sommes là pour vous aider à optimiser et automatiser vos
+    processus.\n\n1-SOLUTION , la vôtre! \n"
   button:
     enable: true
     label: Faites plus avec moins!
     link: contact
 feature:
   enable: true
-  title: Ce que 1-solution vous propose
+  title: Ce que 1-SOLUTION vous propose
   feature_item:
   - name: PowerAutomate
     icon: ti-pulse
