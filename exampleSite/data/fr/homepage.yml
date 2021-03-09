@@ -41,7 +41,7 @@ service:
   - title: Autonomie et liberté du choix du fournisseur
     images:
     - images/service-1.png
-    content: Les solutions PowerApps et PowerAutomate proposées par 1-Solution vous
+    content: Les solutions PowerApps et PowerAutomate proposées par 1-SOLUTION  vous
       sont acquises. Rien de mieux que de conserver l'autonomie du choix du fournisseur
 screenshot:
   enable: true
