@@ -30,18 +30,11 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
+footer_right = []
 main = []
 [[menu.footer_left]]
 name = "Équipe"
 url = "#"
-weight = 1
-[[menu.footer_right]]
-name = "Vision"
-url = "privacy-policy"
-weight = 2
-[[menu.footer_right]]
-name = "Mission"
-url = "faq"
 weight = 1
 [params]
 author = "1-solution"
