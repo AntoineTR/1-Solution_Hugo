@@ -33,6 +33,7 @@
       </div>
       <div class="col-md-3 col-sm-6 mb-5">
         <a class="d-block mb-3" href="{{ site.BaseURL }}"><img width="{{site.Params.logo_width}}"  class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
+        <img width="{{site.Params.logo_width}}"  class="img-fluid" src="{{ site.Params.logoMSPartner | absURL }}" alt="{{ site.Title }}">
         <p class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
         {{ with site.Params.social }}
         <ul class="list-inline social-icons">
