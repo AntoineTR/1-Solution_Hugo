@@ -29,6 +29,8 @@ title = "1-Solution"
 weight = 1
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+main = []
 [[menu.footer_left]]
 name = "Équipe"
 url = "#"
@@ -41,10 +43,6 @@ weight = 2
 name = "Mission"
 url = "faq"
 weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 2
 [params]
 author = "1-solution"
 contact_form_action = "https://formspree.io/f/xleoyvgl"
