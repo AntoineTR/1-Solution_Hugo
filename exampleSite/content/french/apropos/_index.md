@@ -4,7 +4,7 @@ subtitle: ''
 description: This is meta description
 menu:
   footer_left:
-    weight: 3
+    weight: 4
 
 ---
 #### Mission

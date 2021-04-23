@@ -4,7 +4,7 @@ subtitle: ''
 description: This is meta description
 menu:
   footer_left:
-    weight: 1
+    weight: 2
 
 ---
 #### Claude Richer
