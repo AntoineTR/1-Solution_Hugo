@@ -1,6 +1,6 @@
 baseURL = "https://1-solution.ca"
 defaultContentLanguage = "fr"
-disableLanguages = ["en"]
+disableLanguages = []
 disqusShortname = ""
 googleAnalytics = "UA-191837742-1"
 paginate = "3"
@@ -29,6 +29,13 @@ title = "1-Solution"
 weight = 1
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+footer_right = []
+main = []
+[[menu.footer_left]]
+name = "Équipe"
+url = "#"
+weight = 1
 [params]
 author = "1-solution"
 contact_form_action = "https://formspree.io/f/xleoyvgl"
