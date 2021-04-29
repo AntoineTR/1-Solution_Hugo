@@ -48,7 +48,7 @@ service:
       even if you decide that we’re no longer a good match. '
     button:
       enable: true
-      label: Check it out
+      label: ''
       link: "#"
 screenshot:
   enable: true
