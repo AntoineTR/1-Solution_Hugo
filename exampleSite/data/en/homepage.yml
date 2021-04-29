@@ -11,7 +11,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: What 1-SOLUTION has to offer you
   feature_item:
   - name: PowerAutomate
     icon: ti-pulse
