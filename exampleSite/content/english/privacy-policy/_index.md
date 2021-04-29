@@ -1,21 +1,21 @@
 ---
-title: Values
+title: Our Team
 subtitle: ''
 description: This is meta description
 
 ---
-#### Integrity
+#### Claude Richer
 
-Integrity is defined as the “state of being complete or undivided[\[1\]](#_ftn1).” This also describes our value system and work ethic. We walk the talk and put our words into action.
+Claude Richer, President, is a seasoned business owner and trainer. As the founder and President of Maximiz, an author, conference speaker and experienced innovator, his well-honed approach values technology at the heart of serving and benefitting humankind.
 
-***
+#### Antoine Thériault-Richer
 
-[\[1\]](#_ftnref1) Merriam Webster Dictionary Online.
+Antoine- Thériault Richer, Developer, was the 2nd place global winner of the worldwide #TDGiGlobalHack competition. He has more than 10 years of experience in fields relating to technology, and never shies away from a challenge.
 
-#### Creativity
+#### Bruno Laporte
 
-Preconceived notions and doctrine hinder the development and visioning of creative, innovative, and effective solutions. This is why we choose to approach every situation with fresh eyes and by thinking outside of the box. As a result, 1-SOLUTION is _your_ unique and tailored solution. In other words, what _you_ really need.
+Bruno Laporte, Developer, values the human side above all else. In addition to being a topnotch developer, he is always at the ready to listen. His specialty is understanding what folks are saying, and more importantly what they hold back.
 
-#### Human
+#### Marc-André Poupier
 
-To ensure the success and effectiveness of any change, the key actors in your business need to be involved early and throughout. At the heart of your organization are your people. We are experienced communicators, eager to hear their challenges and experiences, and to understand the impacts of potential changes. This is also why we put an emphasis on offering trainings that minimize stress and maximize adoption of new solutions and ways of working.
+Marc-André Poupier, Chief Technology Officer, is an innovator and self-proclaimed geek. With more than 20 years of experience, including as CTO of Guardian Microsystems, he understands the ins and out of businesses. His expertise is thinking outside of the box and solving the unsolvable. Over time, he has learned to do the impossible through automation and optimization of existing tools.
