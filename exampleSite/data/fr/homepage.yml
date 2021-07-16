@@ -15,8 +15,8 @@ feature:
   feature_item:
   - name: PowerAutomate
     icon: ti-pulse
-    content: Les fonctionnalités de PowerAutomate vous permet de faire des gains en
-      simplification et automatisation.
+    content: Les fonctionnalités de PowerAutomate vous permettent de faire des gains
+      en simplification et automatisation.
   - name: PowerApps
     icon: ti-package
     content: Nous comprenons bien les défis des Entreprises. Elles doivent faire plus
