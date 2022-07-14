@@ -58,7 +58,7 @@
 
         {{ if site.Params.navigation_button.enable }}
         {{ with site.Params.navigation_button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-sm btn-primary ml-3">{{ site.Params.footer_content | markdownify }}</a>
+        <a href="{{ .link | absLangURL }}" class="btn btn-sm btn-primary ml-3">{{ site.Params.contact_us | markdownify }}</a>
         {{ end }}
         {{ end }}
       </div>
