@@ -17,6 +17,7 @@ footer_menu_right = "Support"
 languageName = "En"
 title = "Bigspring Hugo"
 weight = 1
+contact_us = "Contact us"
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright 1-Solution"
@@ -27,6 +28,7 @@ footer_menu_right = "À Propos"
 languageName = "Fr"
 title = "1-Solution"
 weight = 1
+contact_us = "Nous Contacter"
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
