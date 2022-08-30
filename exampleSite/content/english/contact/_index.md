@@ -10,4 +10,4 @@ description: This is meta description
 
 * **Phone: 514.360.0119 Ext. 22**
 * **Mail: claude@1-solution.ca**
-* **Address: 3840, Lavoie, Saint-Hubert, QUEBEC, J3Y 5E4, CANADA**
+* **Address: 6300 Auteuil avenue , suite 505, Brossard, J4Z 3P2**
