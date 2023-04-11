@@ -8,6 +8,5 @@ description: This is meta description
 
 1-SOLUTION is _your_ solution for automation and optimization.
 
-* **Phone: 514.360.0119 Ext. 22**
-* **Mail: claude@1-solution.ca**
+* **Mail: antoine@1-solution.ca**
 * **Address: 6300 Auteuil avenue , suite 505, Brossard, J4Z 3P2**
